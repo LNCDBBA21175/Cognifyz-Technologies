@@ -39,6 +39,7 @@ Visualize gender distribution in the dataset.
 ![Gender Bar Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/2acdb739b56d922a3fed3714433519e960e4d186/bar%20graph.png)
 
 **Pie Chart :**
+
 ![Gender Pie Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/5feca0eedac213dddf3b31cc6d015b32a470eef0/pie%20chart.png)
 
 ## 🔍 Insights
