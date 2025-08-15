@@ -36,10 +36,10 @@ Visualize gender distribution in the dataset.
 
 ### 📈 Gender Distribution:
 **Bar Chart :**  
-![Gender Bar Chart](C:/Users/HP/OneDrive/Pictures/Screenshots/bar_graph.png)
+![Gender Bar Chart](bar graph.png)
 
 **Pie Chart :**
-![Gender Pie Chart](C:/Users/HP/OneDrive/Pictures/Screenshots/pie chart.png)
+![Gender Pie Chart](pie chart.png)
 
 ## 🔍 Insights
 - The dataset is **male-dominated**, with **62.5% males** and **37.5% females**.  
