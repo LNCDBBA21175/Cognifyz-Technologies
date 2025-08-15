@@ -32,5 +32,4 @@ The dataset contains information about investors, including:
 - Sources of Information: Source
 
 ## ▶ How to Run the Project
-1. **Clone the repository**  
-https://github.com/your-username/your-repo-name.git
+https://github.com/LNCDBBA21175/Cognifyz-Technologies.git
