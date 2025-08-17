@@ -65,5 +65,37 @@ Present basic statistics for numerical columns.
 ### 📌 Objective :
 Identify the most preferred investment avenue.
 
+### - Analyze Investment Avenues – Examine the dataset column that contains information about different investment options (e.g., Equity, Mutual Funds, Real Estate, Gold, etc.).
+### - Frequency Analysis – Count the frequency of each investment avenue to determine the most preferred option.
+
+### - Outcome: A frequency distribution of all investment avenues, highlighting the most commonly preferred option.
+
+## Task 5: Reasons for Investment
+### 📌 Objective :
+The main goal of this analysis is to understand investor preferences and summarize the reasons behind their investment choices using the provided dataset.
+
+### - Identify the Most Preferred Investment Avenue
+- Extracted the Investment_Avenues column.
+- Performed frequency analysis using value_counts().
+- Created bar charts to visualize the popularity of different investment avenues.
+
+### - Analyze and Summarize Reasons for Investment Choices
+- Explored reason columns:
+  - Reason_Equity
+  - Reason_Mutual
+  - Reason_Bonds
+  - Reason_FD
+- Conducted frequency analysis for each reason.
+- Created visualizations:
+  - Bar charts showing top reasons for each avenue.
+  - Word Cloud combining all reasons for an overall summary.
+
+### - 📊 Visualizations
+- Bar Charts – Display the top 3 reasons for each investment type.
+- Word Cloud – Highlights the most common reasons across all investment avenues.
+  
+**Top Reasons for Equity Investment :**  
+![Equity Investment Bar Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/2acdb739b56d922a3fed3714433519e960e4d186/bar%20graph.png)
+
 ## ▶ How to Run the Project
 https://github.com/LNCDBBA21175/Cognifyz-Technologies.git
