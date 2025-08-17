@@ -119,5 +119,24 @@ The main goal of this analysis is to understand investor preferences and summari
 ### 📌 Objective :
 Identify and present main savings objectives.
 
+### - Analyze Savings Objectives
+- Extracted data from the column “What are your savings objectives?”.
+- Cleaned and organized responses for analysis.
+
+### - List and Describe Objectives
+- Common objectives observed include:
+  - Wealth Creation
+  - Retirement Planning
+  - Children’s Education
+  - Marriage / Family Expenses
+  - Emergency Fund
+  - Tax Saving
+  - Regular Income
+  - Asset Purchase
+
+### - 📊 Visuals
+**What are your savings objectives? :**  
+
+![saving objective Bar Chart]()
 ## ▶ How to Run the Project
 https://github.com/LNCDBBA21175/Cognifyz-Technologies.git
