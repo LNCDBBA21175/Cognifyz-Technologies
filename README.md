@@ -137,6 +137,11 @@ Identify and present main savings objectives.
 ### - 📊 Visuals
 **What are your savings objectives? :**  
 
-![saving objective Bar Chart]()
+![saving objective Bar Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/997cebb2fc590f899c1f77dfb91e709f5c08ae45/saving%20objective%20bar%20chart.png)
+
+### - ✅ Outcome : The analysis helps in understanding the financial priorities of participants and provides insights into their major savings goals.
+
+
+
 ## ▶ How to Run the Project
 https://github.com/LNCDBBA21175/Cognifyz-Technologies.git
