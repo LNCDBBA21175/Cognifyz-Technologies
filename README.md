@@ -108,7 +108,7 @@ The main goal of this analysis is to understand investor preferences and summari
 
 **Top Reasons for FD Investment :**  
 
-![FD Investment Bar Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/370fd04c53444cd04b89855d0df450d5e3d7972b/README.md)
+![FD Investment Bar Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/370fd04c53444cd04b89855d0df450d5e3d7972b/FD%20Investment%20Chart.png)
 
 ### - 📈 Key Insights
 - The most preferred investment avenue can be identified by frequency analysis.
