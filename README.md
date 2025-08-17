@@ -1,4 +1,4 @@
-# 📊 Investment Preferences Dataset Analysis & Visualization
+<img width="781" height="504" alt="image" src="https://github.com/user-attachments/assets/310c494e-2c46-441a-b7e9-4bdcb4a40491" /># 📊 Investment Preferences Dataset Analysis & Visualization
 
 ### 🚀 Project Overview
 This project analyzes the **Investment Preferences Dataset** to explore patterns in investment behavior, objectives, and decision-making factors among individuals.  
@@ -8,7 +8,7 @@ It includes **data cleaning, processing, and visualization** to identify trends 
 ### 📌 Objective
 The goal of this dataset is to analyze investment preferences, objectives, and decision-making factors among different individuals.
 
-### 📂 Dataset Overview
+### - 📂 Dataset Overview
 The dataset contains information about investors, including:
 
 - Rows: 40
@@ -17,13 +17,13 @@ The dataset contains information about investors, including:
   - Numeric: 8 columns (e.g., Age, Mutual_Funds, Equity_Market, Debentures)
   - Categorical: 16 columns (e.g., Gender, Investment_Avenues, Purpose, Duration)
   
-### 🛠 Technologies Used
+### - 🛠 Technologies Used
 - **🐍 Python**
 - **Pandas** (Data manipulation)  
 - **Matplotlib** & **Seaborn** (Data visualization)  
 - **Jupyter Notebook**
 
-### 📊 Column Categories
+### - 📊 Column Categories
 - Demographics: Gender, Age
 - Investment Types: Mutual_Funds, Equity_Market, Debentures, Government_Bonds, Fixed_Deposits, PPF, Gold
 - Preferences & Objectives: Investment_Avenues, Factor, Objective, Purpose, Duration, Savings Objectives
@@ -34,7 +34,7 @@ The dataset contains information about investors, including:
 ### 📌 Objective: 
 Visualize gender distribution in the dataset.
 
-### 📈 Gender Distribution:
+### - 📈 Gender Distribution:
 **Bar Chart :**  
 
 ![Gender Bar Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/2acdb739b56d922a3fed3714433519e960e4d186/bar%20graph.png)
@@ -43,7 +43,7 @@ Visualize gender distribution in the dataset.
 
 ![Gender Pie Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/5feca0eedac213dddf3b31cc6d015b32a470eef0/pie%20chart.png)
 
-### 🔍 Insights
+### - 🔍 Insights
 - The dataset is **male-dominated**, with **62.5% males** and **37.5% females**.  
 - Indicates that **male respondents are more actively represented** in the investment preference study.  
 - This skew may influence other insights, such as preferred investment avenues and objectives.  
@@ -95,7 +95,11 @@ The main goal of this analysis is to understand investor preferences and summari
 - Word Cloud – Highlights the most common reasons across all investment avenues.
   
 **Top Reasons for Equity Investment :**  
-![Equity Investment Bar Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/2acdb739b56d922a3fed3714433519e960e4d186/bar%20graph.png)
 
+![Equity Investment Bar Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/dc965d9cd677a798daa5b20c7e775f20b2d5f9c7/Equity%20Investment%20Bar%20Chart.png)
+
+**Top Reasons for Mutual Investment :**  
+
+![Mutual Investment Bar Chart]
 ## ▶ How to Run the Project
 https://github.com/LNCDBBA21175/Cognifyz-Technologies.git
