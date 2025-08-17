@@ -1,14 +1,14 @@
 # 📊 Investment Preferences Dataset Analysis & Visualization
 
-## 🚀 Project Overview
+### 🚀 Project Overview
 This project analyzes the **Investment Preferences Dataset** to explore patterns in investment behavior, objectives, and decision-making factors among individuals.  
 It includes **data cleaning, processing, and visualization** to identify trends in various investment avenues.
 
 ## Task 1 :- Data Overview
-## 📌 Objective
+### 📌 Objective
 The goal of this dataset is to analyze investment preferences, objectives, and decision-making factors among different individuals.
 
-## 📂 Dataset Overview
+### 📂 Dataset Overview
 The dataset contains information about investors, including:
 
 - Rows: 40
@@ -17,13 +17,13 @@ The dataset contains information about investors, including:
   - Numeric: 8 columns (e.g., Age, Mutual_Funds, Equity_Market, Debentures)
   - Categorical: 16 columns (e.g., Gender, Investment_Avenues, Purpose, Duration)
   
-## 🛠 Technologies Used
+### 🛠 Technologies Used
 - **🐍 Python**
 - **Pandas** (Data manipulation)  
 - **Matplotlib** & **Seaborn** (Data visualization)  
 - **Jupyter Notebook**
 
-## 📊 Column Categories
+### 📊 Column Categories
 - Demographics: Gender, Age
 - Investment Types: Mutual_Funds, Equity_Market, Debentures, Government_Bonds, Fixed_Deposits, PPF, Gold
 - Preferences & Objectives: Investment_Avenues, Factor, Objective, Purpose, Duration, Savings Objectives
@@ -31,7 +31,7 @@ The dataset contains information about investors, including:
 - Sources of Information: Source
 
 ## Task 2 :- Gender Distribution
-## 📌 Objective: 
+### 📌 Objective: 
 Visualize gender distribution in the dataset.
 
 ### 📈 Gender Distribution:
@@ -43,14 +43,14 @@ Visualize gender distribution in the dataset.
 
 ![Gender Pie Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/5feca0eedac213dddf3b31cc6d015b32a470eef0/pie%20chart.png)
 
-## 🔍 Insights
+### 🔍 Insights
 - The dataset is **male-dominated**, with **62.5% males** and **37.5% females**.  
 - Indicates that **male respondents are more actively represented** in the investment preference study.  
 - This skew may influence other insights, such as preferred investment avenues and objectives.  
 - Further analysis is needed to check if **gender impacts investment choices and risk appetite**.
 
 ## Task 3 :- Descriptive Statistics
-## 📌 Objective :
+### 📌 Objective :
 Present basic statistics for numerical columns.
 
 ### - Identify Numerical Columns – Review the dataset to find numerical data (e.g., Age, Income).
@@ -59,7 +59,11 @@ Present basic statistics for numerical columns.
 - Median – Middle value of the column.
 - Standard Deviation – Spread/variation of the data.
 
-## Outcome: A statistical summary table that provides insights into the central tendency and variability of key numerical features.
+### Outcome: A statistical summary table that provides insights into the central tendency and variability of key numerical features.
+
+## Task 4: Most Preferred Investment Avenue
+### 📌 Objective :
+Identify the most preferred investment avenue.
 
 ## ▶ How to Run the Project
 https://github.com/LNCDBBA21175/Cognifyz-Technologies.git
