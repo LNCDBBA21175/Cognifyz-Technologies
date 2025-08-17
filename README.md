@@ -1,4 +1,4 @@
-<img width="781" height="504" alt="image" src="https://github.com/user-attachments/assets/310c494e-2c46-441a-b7e9-4bdcb4a40491" /># 📊 Investment Preferences Dataset Analysis & Visualization
+# 📊 Investment Preferences Dataset Analysis & Visualization
 
 ### 🚀 Project Overview
 This project analyzes the **Investment Preferences Dataset** to explore patterns in investment behavior, objectives, and decision-making factors among individuals.  
@@ -100,6 +100,11 @@ The main goal of this analysis is to understand investor preferences and summari
 
 **Top Reasons for Mutual Investment :**  
 
-![Mutual Investment Bar Chart]
+![Mutual Investment Bar Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/e82059c2b7e7991ab03005e8b93e3c8d6ad6d82f/Mutual%20Investment%20Bar%20Chart.png)
+
+**Top Reasons for Bond Investment :**  
+
+![Bond Investment Bar Chart]()
+
 ## ▶ How to Run the Project
 https://github.com/LNCDBBA21175/Cognifyz-Technologies.git
