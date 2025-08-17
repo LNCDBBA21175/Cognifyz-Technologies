@@ -4,7 +4,7 @@
 This project analyzes the **Investment Preferences Dataset** to explore patterns in investment behavior, objectives, and decision-making factors among individuals.  
 It includes **data cleaning, processing, and visualization** to identify trends in various investment avenues.
 
-## Task 1 :-
+## Task 1 :- Data Overview
 ## 📌 Objective
 The goal of this dataset is to analyze investment preferences, objectives, and decision-making factors among different individuals.
 
@@ -30,8 +30,8 @@ The dataset contains information about investors, including:
 - Reasons for Choosing Instruments: Reason_Equity, Reason_Mutual, Reason_Bonds, Reason_FD
 - Sources of Information: Source
 
-## Task 2 :-
-## Objective: 
+## Task 2 :- Gender Distribution
+## 📌 Objective: 
 Visualize gender distribution in the dataset.
 
 ### 📈 Gender Distribution:
@@ -49,6 +49,17 @@ Visualize gender distribution in the dataset.
 - This skew may influence other insights, such as preferred investment avenues and objectives.  
 - Further analysis is needed to check if **gender impacts investment choices and risk appetite**.
 
+## Task 3 :- Descriptive Statistics
+## 📌 Objective :
+Present basic statistics for numerical columns.
+
+### - Identify Numerical Columns – Review the dataset to find numerical data (e.g., Age, Income).
+### - Perform Calculations – Apply statistical functions to summarize the data:
+- Mean – Average value of the column.
+- Median – Middle value of the column.
+- Standard Deviation – Spread/variation of the data.
+
+## Outcome: A statistical summary table that provides insights into the central tendency and variability of key numerical features.
 
 ## ▶ How to Run the Project
 https://github.com/LNCDBBA21175/Cognifyz-Technologies.git
