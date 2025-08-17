@@ -59,7 +59,7 @@ Present basic statistics for numerical columns.
 - Median – Middle value of the column.
 - Standard Deviation – Spread/variation of the data.
 
-### Outcome: A statistical summary table that provides insights into the central tendency and variability of key numerical features.
+### - Outcome: A statistical summary table that provides insights into the central tendency and variability of key numerical features.
 
 ## Task 4: Most Preferred Investment Avenue
 ### 📌 Objective :
