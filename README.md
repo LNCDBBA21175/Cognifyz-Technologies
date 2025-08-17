@@ -104,7 +104,12 @@ The main goal of this analysis is to understand investor preferences and summari
 
 **Top Reasons for Bond Investment :**  
 
-![Bond Investment Bar Chart]()
+![Bond Investment Bar Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/dbd26b04ffb6446b7c7983d7cce35deda499662d/Bond%20Investment%20Bar%20Chart.png)
+
+**Top Reasons for FD Investment :**  
+
+![FD Investment Bar Chart]()
+
 
 ## ▶ How to Run the Project
 https://github.com/LNCDBBA21175/Cognifyz-Technologies.git
