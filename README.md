@@ -108,8 +108,16 @@ The main goal of this analysis is to understand investor preferences and summari
 
 **Top Reasons for FD Investment :**  
 
-![FD Investment Bar Chart]()
+![FD Investment Bar Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/370fd04c53444cd04b89855d0df450d5e3d7972b/README.md)
 
+### - 📈 Key Insights
+- The most preferred investment avenue can be identified by frequency analysis.
+- Different investors choose different avenues due to factors like safety, returns, liquidity, and tax benefits.
+- Common themes in investment reasons can be visualized effectively using bar charts and word clouds.
+
+## Task 6: Savings Objectives
+### 📌 Objective :
+Identify and present main savings objectives.
 
 ## ▶ How to Run the Project
 https://github.com/LNCDBBA21175/Cognifyz-Technologies.git
