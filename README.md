@@ -160,7 +160,8 @@ rely on for investment information.
 ### - 📊 Visuals
 **Most Common Sources of Investment Information :**  
 
-![Common Sources of Investment Information Bar Chart]
+![Common Sources of Investment Information Bar Chart](https://github.com/LNCDBBA21175/Cognifyz-Technologies/blob/8e16df448ecdb68147ef0ab23d056a8f013d9cdf/Common%20Sources%20of%20Investment%20Information%20Bar%20Chart.png)
 
+### - ✅ Outcome : The analysis highlights where participants usually seek investment guidance, offering insights into trusted channels of financial information.
 ## ▶ How to Run the Project
 https://github.com/LNCDBBA21175/Cognifyz-Technologies.git
