@@ -141,7 +141,26 @@ Identify and present main savings objectives.
 
 ### - ✅ Outcome : The analysis helps in understanding the financial priorities of participants and provides insights into their major savings goals.
 
+## Task 7: Common Information Sources
+### 📌 Objective :
+Analyze common sources participants
+rely on for investment information.
 
+### - Explore Information Sources Column
+- Reviewed the column containing participants’ responses on sources of investment information.
+### - Identify Common Sources
+- Summarized the most frequently mentioned sources, including:
+  - Friends & Family
+  - Financial Advisors
+  - Social Media
+  - Online Articles & Blogs
+  - Television & Newspapers
+  - Investment Apps / Platforms
+
+### - 📊 Visuals
+**Most Common Sources of Investment Information :**  
+
+![Common Sources of Investment Information Bar Chart]
 
 ## ▶ How to Run the Project
 https://github.com/LNCDBBA21175/Cognifyz-Technologies.git
